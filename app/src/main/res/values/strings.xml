@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NavigationDrawer</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="nav_user_name">AndroidSources</string>
+    <string name="nav_mail_id">username@androidsources.com</string>
+
+    <string name="inbox">Inbox</string>
+    <string name="priority_inbox">Priority Inbox</string>
+    <string name="all_labels">All labels</string>
+    <string name="starred">Starred</string>sent
+    <string name="sent">Sent</string>
+    <string name="spam">Spam</string>
+    <string name="recycle_bin">Recycle Bin</string>
+    </resources>
